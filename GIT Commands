@@ -1,0 +1,21 @@
+### GIT Commands ###
+
+git clone https: 
+
+if you make any changes 
+
+git add --all ( if you want to add only particualar file " git add filename")
+
+## commiting to local repo ##
+git commit -am "custom message"
+
+
+## Git pull to check if other user is modifying ##
+
+git pull 
+
+## push to main github repo #
+
+git push
+
+Ggit
